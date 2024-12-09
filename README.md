@@ -9,7 +9,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-- [Author](#author)
 
 ## Overview
 
@@ -40,8 +39,8 @@ Feel free to customize this overview to better fit your project and the specific
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://kilasa-qr-code.netlify.app/)
+- Solution URL: (https://github.com/gkilasonia/QR-Code)
+- Live Site URL: (https://kilasa-qr-code.netlify.app/)
 
 ## My process
 
@@ -52,7 +51,3 @@ Feel free to customize this overview to better fit your project and the specific
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-
-## Author
-
-- GitHub - [@gkilasonia](https://github.com/gkilasonia?tab=repositories)
